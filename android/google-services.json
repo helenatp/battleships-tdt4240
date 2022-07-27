@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "285261425463",
+    "firebase_url": "https://battleship-80dca-default-rtdb.firebaseio.com",
+    "project_id": "battleship-80dca",
+    "storage_bucket": "battleship-80dca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285261425463:android:70e6ad19b50764f6ce08b2",
+        "android_client_info": {
+          "package_name": "com.mygdx.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285261425463-f6s0hk2sk2od16qbjoa3qlur189s6nku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1-NS_xgV_y3P-iESHG_bp3vcjMOc0RH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285261425463-f6s0hk2sk2od16qbjoa3qlur189s6nku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
